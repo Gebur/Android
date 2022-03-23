@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EmailText">Enter your email, please</string>
+    <string name="PasswordText">Enter your\t\tpassword, please\n\n</string>
+    <string name="LogButtonText">Log in</string>
+    <string name="ForgetText">Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n\nand more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="RegButtonText">Forgot your password?</string>
+    <string name="ClickHere">Click here</string>
+    <string name="NotRobot">I am not a robot</string>
+    <color name="UpBack">#339966</color>
+    <color name="Buttons">#BF1B1B</color>
+</resources>
